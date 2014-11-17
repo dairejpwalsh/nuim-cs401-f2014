@@ -6,6 +6,9 @@ Machine Learning https://en.wikipedia.org/wiki/Machine_learning and Neural Netwo
 Resources and Pointers
 ======================
 
+Information
+-----------
+
 Wikipedia on Perceptron https://en.wikipedia.org/wiki/Perceptron
 
 Wikipedia on Backpropagation https://en.wikipedia.org/wiki/Backpropagation
@@ -25,3 +28,8 @@ Naive_Bayes https://en.wikipedia.org/wiki/Naive_Bayes_classifier
 HMM Cheat Sheet http://www.bcl.hamilton.ie/~barak/misc/hmm.pdf
 
 Wikipedia on Hidden Markov Model https://en.wikipedia.org/wiki/Hidden_Markov_model
+
+Implementations
+---------------
+
+http://toppersworld.com/top-5-open-source-data-mining-tools/
