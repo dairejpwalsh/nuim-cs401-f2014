@@ -29,6 +29,18 @@ HMM Cheat Sheet http://www.bcl.hamilton.ie/~barak/misc/hmm.pdf
 
 Wikipedia on Hidden Markov Model https://en.wikipedia.org/wiki/Hidden_Markov_model
 
+Wikipedia on Temporal difference learning https://en.wikipedia.org/wiki/Temporal_difference_learning
+
+Systems of Interest
+-------------------
+
+Backgammon via TD Learning:
+https://en.wikipedia.org/wiki/TD-Gammon
+http://aitopics.org/topic/backgammon
+
+Helecopter via Machine Learning:
+https://www.youtube.com/user/stanfordhelicopter
+
 Implementations
 ---------------
 
