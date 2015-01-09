@@ -1,0 +1,37 @@
+NUIM CS 401 (Fall 2014) Project
+
+Instead of coding something up, the objective of this project is to
+produce a report describing and assessing a practical machine learning
+application which received attention in the media.
+
+The report length is flexible, but I'd anticipate three or four pages,
+not including figures and tables and images and such.
+
+The report should include the following:
+
+ * pointer to articles in the media on the system (with quotes as needed)
+ * brief description of the system
+   - what it does
+   - why it received attention
+   - what you found interesting about it
+ * in-depth technical description (may require looking at technical literature)
+   - technical description of the problem
+   - details on the dataset (size, nature, source, etc)
+   - details on how the data was pre-processed for the machine
+     learning algorithms
+   - details on the machine learning methods being applied
+     + basic algorithm
+     + novel twists or tweaks
+     + size of the network or system (if applicable)
+     + time & number of CPUs used for training
+     + etc
+ * criticisms of the system, if any
+ * discussion of things you might consider doing differently
+ * discussion of possible extensions
+ * any points you'd like to make that don't fit into the above
+
+For example, the "deep learning" network that recently was reported to
+have dramatically improved the performance of speech recognition at
+Great Big Company Inc would be an appropriate choice.  How big was the
+improvement?  What was it attributed to?  How was the input speech
+waveform encoded for presentation to the network?
